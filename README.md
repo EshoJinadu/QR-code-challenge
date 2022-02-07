@@ -10,7 +10,8 @@ Semantic HTML5 markup
 CSS custom properties
 
 screenshots
-<img src="Image/Screenshot%20(32).png">
+[Screenshot (32)](https://user-images.githubusercontent.com/98701613/152839528-3327b825-d810-46e2-9bde-2ea0124bc2b4.png)
+
 
 
 What I learned.
