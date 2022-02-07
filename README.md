@@ -25,3 +25,4 @@ Author
 - Frontend Mentor - [@EshoJinadu](https://www.frontendmentor.io/profile/@EshoJinadu)
 - Twitter - [@Ayoff3](https://www.twitter.com/@Ayoff3)
 
+![Screenshot (32)](https://user-images.githubusercontent.com/98701613/152840565-3d4a9752-adb6-4a26-a8e2-cc85aa7d1e35.png)
